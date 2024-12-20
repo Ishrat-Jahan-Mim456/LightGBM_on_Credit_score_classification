@@ -40,37 +40,35 @@ Running the Project
 Clone the repository:
 
 git clone https://github.com/Ishrat-Jahan-Mim456/LightGBM_on_Credit_score_classification.git
-cd credit-scoring-model
-
 
 
 The predicted credit scores will be saved in the predicted_credit_scores.csv file in the project directory.
 
 **Methodology**
 
-Data Preprocessing:
+**Data Preprocessing:**
 
 Missing values are filled with a placeholder value (-999).
 
 Categorical features are encoded using Label Encoding.
 
-Model Training:
-
+**Model Training:
+**
 LightGBM is used as the classifier.
 
 Hyperparameters are set for multi-class classification.
 
 Early stopping is implemented to prevent overfitting.
 
-Evaluation:
+**Evaluation:**
 
 The model is evaluated using metrics such as classification report and ROC-AUC score.
 
-Prediction:
+**Prediction:**
 
 The model predicts credit scores for the test dataset, which are saved to an output CSV file.
 
-Results
+**Results**
 
 The classification report and ROC-AUC score provide insights into the model's performance. These metrics are displayed in the console after training.
 
