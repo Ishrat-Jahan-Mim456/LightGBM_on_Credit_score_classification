@@ -49,6 +49,7 @@ Missing values are filled with a placeholder value (-999).
 Categorical features are encoded using Label Encoding.
 
 **Model Training:**
+
 LightGBM is used as the classifier.
 Hyperparameters are set for multi-class classification.
 Early stopping is implemented to prevent overfitting.
