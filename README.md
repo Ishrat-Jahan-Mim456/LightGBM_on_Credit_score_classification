@@ -1,9 +1,9 @@
 # LightGBM_on_Credit_score_classification
-Credit Scoring Model
+**Credit Scoring Model**
 
 This repository contains a machine learning project for developing a credit scoring model to predict the creditworthiness of individuals using historical financial data. The project uses the LightGBM algorithm for classification and includes preprocessing, feature engineering, and evaluation steps.
 
-Project Structure
+**Project Structure**
 
 train.csv: Training dataset.
 
@@ -15,7 +15,7 @@ predicted_credit_scores.csv: Output file containing predicted credit scores for 
 
 README.md: Project documentation.
 
-Requirements
+**Requirements**
 
 To run the project, you need the following libraries installed:
 
@@ -39,18 +39,14 @@ Running the Project
 
 Clone the repository:
 
-git clone https://github.com/yourusername/credit-scoring-model.git
+git clone https://github.com/Ishrat-Jahan-Mim456/LightGBM_on_Credit_score_classification.git
 cd credit-scoring-model
 
-Place the training and test datasets (train.csv and test.csv) in the project directory.
 
-Run the Python script:
-
-python credit_scoring.py
 
 The predicted credit scores will be saved in the predicted_credit_scores.csv file in the project directory.
 
-Methodology
+**Methodology**
 
 Data Preprocessing:
 
@@ -84,7 +80,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests for 
 
 
 
-Contact
+**Contact**
 
 For questions or feedback, please contact:
 
