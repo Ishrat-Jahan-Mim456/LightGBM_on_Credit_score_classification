@@ -18,24 +18,20 @@ README.md: Project documentation.
 **Requirements**
 
 To run the project, you need the following libraries installed:
-
-pandas
-
-numpy
-
-scikit-learn
-
-lightgbm
+1.pandas
+2.numpy
+3.scikit-learn
+4.lightgbm
 
 You can install the required libraries using pip:
 
 pip install pandas numpy scikit-learn lightgbm
 
-Dataset
+**Dataset**
 
 The project uses the train.csv and test.csv files as input. Ensure these files are placed in the appropriate directory before running the script.
 
-Running the Project
+**Running the Project**
 
 Clone the repository:
 
