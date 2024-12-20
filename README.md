@@ -9,7 +9,7 @@ train.csv: Training dataset.
 
 test.csv: Test dataset.
 
-credit_scoring.py: Python script for training and evaluating the model.
+LightGBM.ipynb: Python script for training and evaluating the model.
 
 predicted_credit_scores.csv: Output file containing predicted credit scores for the test dataset.
 
